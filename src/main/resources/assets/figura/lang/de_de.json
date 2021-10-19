@@ -1,3 +1,148 @@
 {
-  "lang": "Deutsch"
+  "gui.figura.trustmenutitle": "Figura Vertrauensmenü",
+  "gui.figura.configtitle": "Figura Konfigurationsmenü",
+  "gui.figura.menutitle": "Figura Menü",
+  "gui.figura.keybindstitle": "Figura Skripte Tastenbelegungsmenü",
+
+  "gui.figura.blocked": "Blockiert",
+  "gui.figura.untrusted": "Unvertrauenswürdig",
+  "gui.figura.trusted": "Vertrauenswürdig",
+  "gui.figura.friend": "Freund",
+
+  "gui.figura.maxinitinstructions": "Maximale Init Eingaben!",
+  "gui.figura.maxtickinstructions": "Maximale Tick Eingaben!",
+  "gui.figura.maxrenderinstructions": "Maximale Render Eingaben",
+  "gui.figura.maxcomplexity": "Maximale Komplexität",
+  "gui.figura.allowvanillaedit": "Vanilla Avatar kann sich verändern",
+  "gui.figura.allownameplateedit": "Name kann sich verändern",
+  "gui.figura.allowoffscreenrendering": "Rendern außerhalb des Bildschirms",
+  "gui.figura.maxparticles": "Maximale Partikel pro Sekunde",
+  "gui.figura.maxsfx": "Maximale Geräuche pro Sekunde",
+
+  "gui.figura.dropconfirm": "Willst Du folgende Modelle zu Figura hinzufügen?",
+
+  "gui.figura.button.trustmenu": "Vertrauensmenü",
+  "gui.figura.button.configmenu": "Einstellungen",
+  "gui.figura.button.back": "Zurück",
+  "gui.figura.button.deleteavatar": "Avatar Daten löschen",
+  "gui.figura.button.clearall": "ALLE Avatardaten löschen",
+  "gui.figura.button.help": "Hilfe",
+  "gui.figura.button.openfolder": "Modell-Ordner öffnen",
+  "gui.figura.button.resetallperm": "ALLE Rechte zurücksetzen",
+  "gui.figura.button.resetperm": "Rechte zurücksetzen",
+  "gui.figura.button.reloadavatar": "Avatar neuladen",
+  "gui.figura.button.search": "Suchen...",
+
+  "gui.figura.button.tooltip.upload": "Klicke, um Deinen Avatar hochzuladen und ihn im Mehrspieler anzuzeigen",
+  "gui.figura.button.tooltip.uploadlocal": "Avatar ist bereits geladen!",
+  "gui.figura.button.tooltip.uploadlocaltwo": "Zum Hochladen musst Du zuerst einen lokalen Avatar auswählen!",
+  "gui.figura.button.tooltip.noconnection": "Hochladen/Löschen nicht möglich!",
+  "gui.figura.button.tooltip.noconnectiontwo": "Keine Verbindung zum Server!",
+  "gui.figura.button.tooltip.reloadavatar": "Klicke, um Deinen Avatar lokal zu löschen und erneut herunterzuladen!",
+  "gui.figura.button.tooltip.deleteavatar": "Halte LINKE UMSCHALTTASTE gedrückt und klicke, um Deinen Avatar online zu löschen",
+  "gui.figura.button.tooltip.deleteavatartwo": "Das wird Deinen Avatar auch für alle anderen löschen",
+  "gui.figura.button.tooltip.resetperm": "Halte LINKE UMSCHALTTASTE gedrückt und klicke, um die ausgewählten Rechte für diesen Spieler zurückzusetzen",
+  "gui.figura.button.tooltip.cantreset": "Voreinstellungen könne nicht zurückgesetzt werden",
+  "gui.figura.button.tooltip.resetallperm": "Halte LINKE UMSCHALTTASTE gedrückt und klicke, um die Rechte für diesen Spieler zurückzusetzen",
+  "gui.figura.button.tooltip.clearcache": "Halte LINKE UMSCHALTTASTE gedrückt und klicke, um alle geladenen Avatar Daten zu löschen",
+  "gui.figura.button.tooltip.keybinds": "Aktuelle Skript Tastenkombinationen",
+
+  "gui.figura.button.tooltip.status": "> Nichts / nicht gefunden",
+  "gui.figura.button.tooltip.statustwo": "> 100kb+ / Fehler / Verbindung abgebrochen",
+  "gui.figura.button.tooltip.statusthree": "> 75kb+ / verbinden",
+  "gui.figura.button.tooltip.statusfour": "> Ok / verbunden",
+
+  "gui.figura.model": "Modell",
+  "gui.figura.texture": "Textur",
+  "gui.figura.script": "SKript",
+  "gui.figura.backend": "Backend",
+
+  "gui.figura.complexity": "Komplexität: %d",
+  "gui.figura.filesize": "Dateigröße: %dkb",
+  "gui.figura.name": "Name: %d",
+
+  "gui.figura.config.nametag": "Spielername",
+  "gui.figura.config.misc": "Sonstiges",
+  "gui.figura.config.actionwheel": "Aktionsrad",
+  "gui.figura.config.dev": "Entwickler Einstellungen",
+
+  "gui.figura.config.previewnametag": "Spielername als Vorschau anzeigen",
+  "gui.figura.config.tooltip.previewnametag": "Zeigt deinen Spielernamen in der Modell Vorschau an",
+
+  "gui.figura.config.nametagmods": "Spielernamen Anpassungen",
+  "gui.figura.config.tooltip.nametagmods": "Erlaubt angepasste Spielernamen",
+
+  "gui.figura.config.chatmods": "Chat Anpassungen",
+  "gui.figura.config.tooltip.chatmods": "Erlaubt angepasste Spielernamen im Chat",
+
+  "gui.figura.config.listmods": "Spielerliste Anpassungen",
+  "gui.figura.config.tooltip.listmods": "Erlaubt angepasste Spielernamen in der Tab Liste",
+
+  "gui.figura.config.usenewnetwork": "Neue Netzwerktechnik benutzen",
+  "gui.figura.config.tooltip.usenewnetwork": "Schaltet zwischen der neuen und alten Netzwerktechnik für Online Modelle um",
+
+  "gui.figura.config.uselocalserver": "Lokalen Server benutzen",
+  "gui.figura.config.tooltip.uselocalserver": "Schaltet zwischen dem lokalen und Haupt Online Server für Online Modelle um",
+
+  "gui.figura.config.nametagicon": "Spielernamenmarkierung als Icon",
+  "gui.figura.config.tooltip.nametagicon": "Zeigt die Markierung △ als ein Icon %d im Spielernamen",
+
+  "gui.figura.config.showbadges": "Abzeichen anzeigen",
+  "gui.figura.config.tooltip.showbadges": "Abzeichen neben den Namen von Spielern mit Avataren anzeigen",
+
+  "gui.figura.config.ownnametag": "Eigenen Spielernamen rendern",
+  "gui.figura.config.tooltip.ownnametag": "Rendert deinen eigenen Spielernamen im Spiel",
+
+  "gui.figura.config.logothers": "Skripte anderer Spieler aufzeichnen",
+  "gui.figura.config.tooltip.logothers": "Zeigt Debug Aufzeichnungen von Skripten anderer Spieler an",
+
+  "gui.figura.config.formatscript": "Skript formatieren",
+  "gui.figura.config.tooltip.formatscript": "Skript beim Hochladen formatieren",
+
+  "gui.figura.config.path": "Modellordner",
+  "gui.figura.config.tooltip.path": "Der Ordner, in dem Modelldateien und gecashed Avatare gespeichert werden. Leer lassen um den standard Minecraft Ordner zu verwenden.",
+
+  "gui.figura.config.partshitbox": "Teil-Ankerpunkt rendern",
+  "gui.figura.config.tooltip.partshitbox": "Die Ankerpunkte von %d und %d rendern, wenn das Hitbox Debug Rendering aktiviert ist",
+  "gui.figura.config.tooltip.partshitbox.cubes": "Würfel",
+  "gui.figura.config.tooltip.partshitbox.groups": "Gruppen",
+
+  "gui.figura.config.buttonlocation": "Figura Knopfpositionen",
+  "gui.figura.config.tooltip.buttonlocation": "Position des Figura Einstellungsknopf",
+  "gui.figura.config.buttonlocation.topleft": "Oben links",
+  "gui.figura.config.buttonlocation.topright": "Oben rechts",
+  "gui.figura.config.buttonlocation.bottomleft": "Unten links",
+  "gui.figura.config.buttonlocation.bottomright": "Unten rechts",
+  "gui.figura.config.buttonlocation.icon": "Icon",
+
+  "gui.figura.config.scriptlog": "Skript Aufzeichnung",
+  "gui.figura.config.tooltip.scriptlog": "Skript Debug Aufzeichnung Speicherort",
+  "gui.figura.config.scriptlog.console_chat": "Konsole/Chat",
+  "gui.figura.config.scriptlog.console": "Konsole",
+  "gui.figura.config.scriptlog.chat": "Chat",
+
+  "gui.figura.config.actionwheelpos": "Aktionsrad Titelposition",
+  "gui.figura.config.tooltip.actionwheelpos": "Position des Aktionsradtitels",
+  "gui.figura.config.actionwheelpos.mouse": "Mauszeiger",
+  "gui.figura.config.actionwheelpos.top": "Oben",
+  "gui.figura.config.actionwheelpos.bottom": "Unten",
+  "gui.figura.config.actionwheelpos.center": "Mitte",
+
+  "gui.figura.toast.upload.success.title": "Avatar hochgeladen!",
+
+  "gui.figura.toast.upload.error.title": "Avatarhochladen fehlgeschlagen!",
+  "gui.figura.toast.upload.error.many": "Du hast zu viele Avatare!!",
+  "gui.figura.toast.upload.error.empty": "Der Avatar ist leer!!",
+  "gui.figura.toast.upload.error.space": "Server ist voll!!",
+
+  "gui.figura.keybinds.warning": "Figura kann keine Tastenkombinationen benutzen, die schon von Minecraft oder anderen Mods benutzt werden",
+
+  "gui.figura.actionwheel.warning": "Kein Skript gefunden",
+  "gui.figura.actionwheel.warninginfo": "Die Aktionsradinhalte werden von deinem Avatar-Skript festgelegt",
+  "gui.figura.actionwheel.nofunction": "Keine zugewiesene Function!",
+
+  "key.figura.actionwheel": "Figura Aktionsrad",
+  "key.figura.tooltip.actionwheel": "Figura Aktionsrad",
+
+  "models.figura.none": "-Vanilla-"
 }
