@@ -39,7 +39,7 @@ function give_chestplate{
 }
 
 function select_current_chestplate{
-    #Nicht fertig!
+    #Noch nicht fertig!
 
 
     scoreboard players remove @s owe 1
