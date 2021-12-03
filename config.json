@@ -1,0 +1,13 @@
+{
+  "global": {
+    "onBuildSuccess": null
+  },
+  "mc": {
+    "range": 30,
+    "dev": true,
+    "header": "",
+    "internalScoreboard": "owe",
+    "generatedDirectory": "__generated__",
+    "rootNamespace": null
+  }
+}

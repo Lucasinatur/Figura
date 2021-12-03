@@ -1,0 +1,1 @@
+execute at @e[type=marker,tag=owe.spawn] as @a[distance=true] run function give_elytra

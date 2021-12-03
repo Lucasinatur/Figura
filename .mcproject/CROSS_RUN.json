@@ -1,0 +1,22 @@
+[
+  [
+    "lastUpdate",
+    "Thu Dec 02 2021 16:53:09 GMT+0100 (Mitteleuropäische Normalzeit)"
+  ],
+  [
+    "INTERNAL/VIRTUAL_FILE_SYSTEM",
+    {
+      "src\\one_way_elytra.mc": {
+        "data\\minecraft\\tags\\functions\\load.json": 3630048704,
+        "data\\minecraft\\tags\\functions\\tick.json": 2290778835,
+        "data\\one_way_elytra\\functions\\load.mcfunction": 3971053199,
+        "data\\one_way_elytra\\functions\\tick.mcfunction": 526731267,
+        "data\\one_way_elytra\\functions\\set_spawn.mcfunction": 3906051402,
+        "data\\one_way_elytra\\functions\\slot_occupied.mcfunction": 2361356749,
+        "data\\one_way_elytra\\functions\\give_elytra.mcfunction": 192455331,
+        "data\\one_way_elytra\\functions\\give_chestplate.mcfunction": 3640020629,
+        "data\\one_way_elytra\\functions\\select_current_chestplate.mcfunction": 63316500
+      }
+    }
+  ]
+]

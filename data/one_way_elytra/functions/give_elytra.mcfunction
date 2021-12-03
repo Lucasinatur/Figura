@@ -1,0 +1,2 @@
+execute if data entity @s Inventory[{Slot:102b}] run function one_way_elytra:slot_occupied
+execute unless data entity @s Inventory[{Slot:102b}] run item replace entity @s armor.chest with elytra{display:{Name:'{"text":"One Way Elytra","color":"gold","italic":false}',Lore:['{"text":"Diese Elytra verschwindet","color":"white","italic":false}','{"text":"nach einmaliger Benutzung","color":"white","italic":false}']},HideFlags:4,Unbreakable:1b,Enchantments:[{}]}
